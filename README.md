@@ -10,4 +10,3 @@ Adding Images,
 Adding Headings
 
 
-By: Humza Sajid 
